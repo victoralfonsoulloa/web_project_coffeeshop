@@ -6,10 +6,6 @@
     gap: 32px;
   }
   
-  .reservation__form {
-    margin: 0 auto;
-  }
-  
   .form__label {
     display: inline-block;
     font-weight: 500;
